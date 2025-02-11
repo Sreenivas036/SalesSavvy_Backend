@@ -126,7 +126,5 @@ public class Product {
 		this.category = category;
 		this.createdAt = createdAt;
 		this.updatedAt = updatedAt;
-	}
-    
-    
+	}    
 }
